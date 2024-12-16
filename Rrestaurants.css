@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    background-color: rgba(241, 214, 177, 0.849);
+    color: black;
+    margin: 20px;
+}
+h1{
+    text-align: center;
+    margin-bottom: 20px;
+}
+div{
+    margin-left: 450px;
+    font-size: xx-large;
+}
+
+.restaurant{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    background:white;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
